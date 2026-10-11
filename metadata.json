@@ -1,0 +1,6 @@
+{
+  "name": "GoCare Cloud Admin",
+  "description": "Hệ Thống Quản Trị Y Khoa & Điều Hành 2-Web - Quản Lý Sơ Đồ Phòng Nghỉ Dưỡng & Giường Bệnh Lão Khoa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
